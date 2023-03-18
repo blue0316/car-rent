@@ -1,0 +1,288 @@
+[
+    {
+        "img": "https://cache.willhaben.at/mmo/7/632/541/707_1552412590_hoved.jpg",
+        "name": "Renault Kangoo Van Edition One dCi95 L1 mittel Transporter / Kastenwagen",
+        "place": "Autohaus Waidhofen",
+        "capacity": "5",
+        "power": "95",
+        "price": "€ 24.900",
+        "id": 0
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/2/609/753/782_942461328_hoved.jpg",
+        "name": "Jansen MB 1500 Baumaschine",
+        "place": "Privat",
+        "capacity": "210",
+        "power": "11",
+        "price": "€ 5.000",
+        "id": 1
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/0/645/171/960_813032910_hoved.jpg",
+        "name": "Renault Master LKW über 3,5t",
+        "place": "Sonnleitner GmbH",
+        "capacity": "5.000",
+        "power": "110",
+        "price": "€ 30.790",
+        "id": 2
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/1/624/273/221_187035511_hoved.jpg",
+        "name": "Ford Transit -E EK Kasten Trend 350L3 184PS 67KWH Heck Transporter / Kastenwagen",
+        "place": "Oskar Schmidt Gmbh",
+        "capacity": "10",
+        "power": "184",
+        "price": "€ 67.900",
+        "id": 3
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/5/643/854/725_1880357252_hoved.jpg",
+        "name": "Still R70 - 16 D Gabelstapler",
+        "place": "Privat",
+        "capacity": "3.700",
+        "power": "41",
+        "price": "€ 5.700",
+        "id": 4
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/5/645/149/205_-657918561_hoved.jpg",
+        "name": "VW Caddy Maxi Kastenwagen 2,0 TDI Transporter / Kastenwagen",
+        "place": "driveME GmbH Autohaus Hohenzell",
+        "capacity": "129.000",
+        "power": "102",
+        "price": "€ 18.900",
+        "id": 5
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/0/557/242/810_1309268359_hoved.jpg",
+        "name": "Gabelträger Vorschub Gabelstapler",
+        "place": "MC - Stapler & Maschinenhandel",
+        "capacity": "1",
+        "power": "1",
+        "price": "€ 1.800",
+        "id": 6
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/5/638/908/995_-608250211_hoved.jpg",
+        "name": "Arbeitsbühne/ Hubsteiger/ Anhängerbühne Baumaschine",
+        "place": "PPK Alpenlift Mobilität GmbH",
+        "capacity": "1",
+        "power": "1",
+        "price": "€ 20.500",
+        "id": 7
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/5/649/277/205_1673199567_hoved.jpg",
+        "name": "Opel Vivaro KW Elektro -e Edition M (L2) Transporter / Kastenwagen",
+        "place": "Autopark GmbH",
+        "capacity": "25.466",
+        "power": "136",
+        "price": "€ 36.990",
+        "id": 8
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/2/649/271/982_-329843262_hoved.jpg",
+        "name": "Mercedes-Benz Vito 129 VTP/L4X2 3200 Transporter / Kastenwagen",
+        "place": "Georg Pappas Automobil GmbH - Maishofen",
+        "capacity": "40.849",
+        "power": "204",
+        "price": "€ 69.480",
+        "id": 9
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/1/628/437/961_2064907028_hoved.jpg",
+        "name": "Opel Vivaro Cargo 75kWh Enjoy L Transporter / Kastenwagen",
+        "place": "€ 53.990",
+        "capacity": "136",
+        "power": "Auto Doczekal GmbH",
+        "id": 10
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/8/658/133/418_-1489116448_hoved.jpg",
+        "name": "Ford Transit Connect Ford Transit Connect 1,6D/85KW Transporter / Kastenwagen",
+        "place": "Privat",
+        "capacity": "145.000",
+        "power": "116",
+        "price": "€ 12.500",
+        "id": 11
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/logo/atz/19940414/logo_autodoczekal_solo_4c_rz_jpg_10827739722304190882_medium.png",
+        "name": "Opel Vivaro Cargo 75kWh Enjoy L Transporter / Kastenwagen",
+        "place": "Auto Doczekal GmbH",
+        "capacity": "10",
+        "power": "136",
+        "price": "€ 53.990",
+        "id": 12
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/2/634/364/922_582747370_hoved.jpg",
+        "name": "Citroën Jumper e-Jumper 40+ L4H3 Batterie 70 kWh Komfort+ Transporter / Kastenwagen",
+        "place": "driveME GmbH Autohaus Salzkammergut",
+        "capacity": "3.500",
+        "power": "131",
+        "price": "€ 79.000",
+        "id": 13
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/2/655/913/712_-1957759521_hoved.jpg",
+        "name": "Ford Ranger Doppelkabine Wildtrak 4x4 2,0 EcoBlue Aut. Pickup / Pritsche",
+        "place": "Auto B. Frischmann GmbH",
+        "capacity": "28.373",
+        "power": "213",
+        "price": "€ 43.500",
+        "id": 14
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/6/658/101/846_-1039535438_hoved.jpg",
+        "name": "Chevrolet COE Pickup / Pritsche",
+        "place": "Privat",
+        "capacity": "999",
+        "power": "102",
+        "price": "€ 13.500",
+        "id": 15
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/5/658/097/745_-1885021934_hoved.jpg",
+        "name": "Ford Transit Custom Trend L1H1 300/16.790€/Netto Transporter / Kastenwagen",
+        "place": "Privat",
+        "capacity": "81.200",
+        "power": "136",
+        "price": "€ 20.988",
+        "id": 16
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/5/615/569/455_542960536_hoved.jpg",
+        "name": "Nissan NV200 e-NV200 (ME1) - EVALIA AT Transporter / Kastenwagen",
+        "place": "MVC Motors GmbH",
+        "capacity": "4.168",
+        "power": "109",
+        "price": "€ 37.990",
+        "id": 17
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/3/640/779/483_78568228_hoved.jpg",
+        "name": "Mercedes-Benz Sprinter Front 314 CDI 3,5t / 3.924 mm Transporter / Kastenwagen",
+        "place": "Merbag GmbH Standort Brunn",
+        "capacity": "55.500",
+        "power": "143",
+        "price": "€ 44.388",
+        "id": 18
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/7/640/779/497_319544087_hoved.jpg",
+        "name": "Mercedes-Benz Sprinter Heck 314 CDI 3,5t / 3.665 mm Transporter / Kastenwagen",
+        "place": "Merbag GmbH Standort Brunn",
+        "capacity": "84.239",
+        "power": "143",
+        "price": "€ 40.788",
+        "id": 19
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/1/645/044/571_362805719_hoved.jpg",
+        "name": "VW Transporter T5 Kastenwagen 1,9 TDI Economy Transporter / Kastenwagen",
+        "place": "SDP Automobile",
+        "capacity": "231.000",
+        "power": "86",
+        "price": "€ 3.490",
+        "id": 20
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/6/649/180/896_-302256890_hoved.jpg",
+        "name": "Nissan Navara / NP300 Navara Double Cab 4x4 2,3 dCi N-Connecta Aut. Pickup / Pritsche",
+        "place": "Merbag GmbH Standort Brunn",
+        "capacity": "85.469",
+        "power": "190",
+        "price": "€ 38.388",
+        "id": 21
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/3/658/041/613_-1988303960_hoved.jpg",
+        "name": "KIA Ceed 1.4 benziner LX *Motorschaden* Transporter / Kastenwagen",
+        "place": "Privat",
+        "capacity": "70.000",
+        "power": "90",
+        "price": "€ 2.450",
+        "id": 22
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/9/658/033/249_1216603438_hoved.jpg",
+        "name": "Mercedes-Benz L319 Transporter / Kastenwagen",
+        "place": "Privat",
+        "capacity": "15.500",
+        "power": "90",
+        "price": "€ 14.000",
+        "id": 23
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/2/645/038/262_-1791237355_hoved.jpg",
+        "name": "Fiat Talento L2H1 3,0t 1,6 EcoJet Twin-Turbo 145 SX Transporter / Kastenwagen",
+        "place": "Autohaus Gaberszik GmbH",
+        "capacity": "122.801",
+        "power": "145",
+        "price": "€ 18.990",
+        "id": 24
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/7/658/033/327_-1296760305_hoved.jpg",
+        "name": "VW Transporter T5 Lang 1.9 TDI Facelift Umbau/Gewindefahrwerk Transporter / Kastenwagen",
+        "place": "Privat",
+        "capacity": "295.000",
+        "power": "102",
+        "price": "€ 11.000",
+        "id": 25
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/4/655/842/064_-1196629157_hoved.jpg",
+        "name": "VW Transporter T5 T5 Doka+Pritsche *1,9 L 77 kW* Transporter / Kastenwagen",
+        "place": "Ilic Handel",
+        "capacity": "188.000",
+        "power": "105",
+        "price": "€ 8.500",
+        "id": 26
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/2/651/439/342_-1661017689_hoved.jpg",
+        "name": "Renault Kangoo Van Advance EV45 22kW 45kWh Transporter / Kastenwagen",
+        "place": "€ 39.794",
+        "capacity": "122",
+        "power": "Automobile Reisenhofer GmbH",
+        "id": 27
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/6/658/028/036_-514062850_hoved.jpg",
+        "name": "Peugeot Partner Pickerl 02/2024-1.6 HDI-Diesel Transporter / Kastenwagen",
+        "place": "Privat",
+        "capacity": "278.000",
+        "power": "90",
+        "price": "€ 2.900",
+        "id": 28
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/9/603/254/739_-501018796_hoved.jpg",
+        "name": "Opel Movano L3H2 2.2 BlueHDi 165 S&S Cargo Edition 3.5t Transporter / Kastenwagen",
+        "place": "Auto Günther GmbH",
+        "capacity": "4",
+        "power": "165",
+        "price": "€ 45.990",
+        "id": 29
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/4/603/254/494_-501018796_hoved.jpg",
+        "name": "Opel Movano L3H2 2.2 BlueHDi 165 S&S Cargo Edition 3.5t Transporter / Kastenwagen",
+        "place": "Auto Günther GmbH",
+        "capacity": "8.967",
+        "power": "165",
+        "price": "€ 45.990",
+        "id": 30
+    },
+    {
+        "img": "https://cache.willhaben.at/mmo/3/603/254/153_-501018796_hoved.jpg",
+        "name": "Opel Movano L3H2 2.2 BlueHDi 165 S&S Cargo Edition 3.5t Transporter / Kastenwagen",
+        "place": "Auto Günther GmbH",
+        "capacity": "4.220",
+        "power": "165",
+        "price": "€ 45.990",
+        "id": 31
+    }
+]

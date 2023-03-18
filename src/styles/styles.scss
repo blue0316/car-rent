@@ -1,0 +1,29 @@
+.car {
+    figure {
+        position: relative;
+        flex: 0 0 8rem;
+
+        &::before {
+            content: '';
+            display: block;
+            position: absolute;
+            width: 8rem;
+            padding-top: 100%;
+            background-color: #eee;
+        }
+    }
+
+    h3 {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    p {
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+}
